@@ -1332,3 +1332,8 @@ label {
   width: 250px; /* Adjust the width as needed */
   outline: none;
 }
+.secondary-info-grid {
+  display: grid;
+  grid-template-columns: 8fr 2fr;
+  align-items: center;
+}

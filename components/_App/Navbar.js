@@ -24,7 +24,7 @@ function Navbar() {
             </a>
           </li>
           <li className="main-nav-list ">
-            <a className="main-nav-link nav-cta " href="#">
+            <a className="main-nav-link nav-cta " href="/learning">
               My Learning
             </a>
           </li>

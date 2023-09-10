@@ -4,45 +4,35 @@ function Categories() {
   const categoriesData = [
     {
       name: 'Boost IQ, Expand Knowledge: Unleash Your Brilliance!',
-      description: `Lorem Ipsum is simply dummy text of the printing and typesetting
-    industry. Lorem Ipsum has been the industry's standard dummy text
-    ever since the 1500s, `,
+      description: ` `,
       gif: '/General-Knowledge.GIF',
       link: '/general-knowledge',
       backgrouund: '#63118f',
     },
     {
       name: 'Find your passion and UPSKILL!',
-      description: `Lorem Ipsum is simply dummy text of the printing and typesetting
-    industry. Lorem Ipsum has been the industry's standard dummy text
-    ever since the 1500s,`,
+      description: ``,
       gif: '/Skills.GIF',
       link: '/skill-up',
       backgrouund: '#2c81f6',
     },
     {
       name: 'Learn a language, become a Global Citizen!',
-      description: `Lorem Ipsum is simply dummy text of the printing and typesetting
-    industry. Lorem Ipsum has been the industry's standard dummy text
-    ever since the 1500s,`,
+      description: ``,
       gif: '/Language.GIF',
       link: '/language',
       backgrouund: '#fd4954',
     },
     {
       name: 'Explore careers, choose your calling!',
-      description: `Lorem Ipsum is simply dummy text of the printing and typesetting
-    industry. Lorem Ipsum has been the industry's standard dummy text
-    ever since the 1500s, `,
+      description: ` `,
       gif: '/Career-Exploration.GIF',
       link: '/career-explore',
       backgrouund: '#08bc7f',
     },
     {
       name: 'Need help with Exam Prep? We’ve got you!',
-      description: `Lorem Ipsum is simply dummy text of the printing and typesetting
-    industry. Lorem Ipsum has been the industry's standard dummy text
-    ever since the 1500s,`,
+      description: ``,
       gif: '/Exam-Prep.GIF',
       link: '/exam-prep',
       backgrouund: '#160c27',

@@ -9,13 +9,13 @@ function Navbar() {
       <div className="nav-items">
         <ul className="nav-list">
           <li className="main-nav-list ">
-            <a className="main-nav-link " href="/career-selection">
-              Career Selection
+            <a className="main-nav-link " href="/categories">
+              Categories
             </a>
           </li>
           <li className="main-nav-list ">
             <a className="main-nav-link " href="#">
-              Career Counseling
+              Learning Path
             </a>
           </li>
           <li className="main-nav-list ">
@@ -25,7 +25,7 @@ function Navbar() {
           </li>
           <li className="main-nav-list ">
             <a className="main-nav-link nav-cta " href="#">
-              Contact Us
+              My Learning
             </a>
           </li>
           <li className="">

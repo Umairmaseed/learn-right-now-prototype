@@ -86,7 +86,7 @@ function CategoriesCard() {
             Find your passion and{' '}
             <span style={{ color: '#2c81f6' }}>UPSKILL!</span>
           </h2>
-          <a className="main-nav-link nav-cta " href="/general-knowledge">
+          <a className="main-nav-link nav-cta " href="/skill-up">
             Explore
           </a>
         </div>
@@ -128,7 +128,7 @@ function CategoriesCard() {
             <span style={{ color: '#fd4954' }}>Learn a language</span>, become a
             Global Citizen!
           </h2>
-          <a className="main-nav-link nav-cta " href="/general-knowledge">
+          <a className="main-nav-link nav-cta " href="/language">
             Explore
           </a>
         </div>
@@ -167,7 +167,7 @@ function CategoriesCard() {
             <span style={{ color: '#08bc7f' }}> Explore careers</span>, choose
             your calling!
           </h2>
-          <a className="main-nav-link nav-cta " href="/general-knowledge">
+          <a className="main-nav-link nav-cta " href="/career-explore">
             Explore
           </a>
         </div>
@@ -210,7 +210,7 @@ function CategoriesCard() {
             Need help with <span style={{ color: '#160c27' }}> Exam Prep?</span>{' '}
             We’ve got you!
           </h2>
-          <a className="main-nav-link nav-cta " href="/general-knowledge">
+          <a className="main-nav-link nav-cta " href="/exam-prep">
             Explore
           </a>
         </div>

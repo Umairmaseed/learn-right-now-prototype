@@ -11,6 +11,7 @@ function TopThreeCards() {
       link: '',
       rating: '4.8(325)',
       time: '80min',
+      points: '6500',
     },
     {
       img: '/skill-up/MIT CODING FOR KIDS SCRATCJ.jpg',
@@ -20,6 +21,7 @@ function TopThreeCards() {
       link: '',
       rating: '4.9(428)',
       time: '30min',
+      points: '6000',
     },
     {
       img: '/skill-up/MS word for beginners copy.png',
@@ -29,6 +31,7 @@ function TopThreeCards() {
       link: '',
       rating: '4.7(229)',
       time: '20min',
+      points: '5800',
     },
   ];
   const CardLayout = courseData.map((course) => {

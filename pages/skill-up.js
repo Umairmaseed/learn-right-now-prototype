@@ -13,6 +13,7 @@ function SkillUp() {
       link: '186a0c09-ad1c-4eb8-a3e4-1835ec461423',
       rating: '4.3(48)',
       time: '80min',
+      points: '6000',
     },
     {
       img: '/skill-up/HOW TO TAKE ADVANTAGE CHATGPT copy.png',
@@ -22,6 +23,7 @@ function SkillUp() {
       link: '',
       rating: '4.6(168)',
       time: '120min',
+      points: '4500',
     },
     {
       img: '/skill-up/Graphic with canva copy.png',
@@ -31,6 +33,7 @@ function SkillUp() {
       link: '4bfbd53f-61be-4c8c-8720-cab46c2ba55a',
       rating: '4.5(64)',
       time: '30min',
+      points: '3400',
     },
     {
       img: '/skill-up/Presentation with powerpoint copy.png',
@@ -40,6 +43,7 @@ function SkillUp() {
       link: '5a4a0068-3dbc-4ec5-abbb-a3ea9b8ae7c3',
       rating: '4.8(18)',
       time: '80min',
+      points: '5500',
     },
     {
       img: '/skill-up/MS word for beginners copy.png',
@@ -49,6 +53,7 @@ function SkillUp() {
       link: '4fd3653b-3919-4151-8518-09dbe4a8681c',
       rating: '4.1(14)',
       time: '46min',
+      points: '5000',
     },
     {
       img: '/skill-up/introduction to photoshop.jpg',
@@ -58,6 +63,7 @@ function SkillUp() {
       link: 'e6ff12a1-b677-4cc5-bdf9-f32981baec5b',
       rating: '3.9(127)',
       time: '60min',
+      points: '4000',
     },
     {
       img: '/skill-up/Think like a coder copy.png',
@@ -67,6 +73,7 @@ function SkillUp() {
       link: '53a44ba9-881e-473f-9882-5d27ffce4cca',
       rating: '4.4(17)',
       time: '50min',
+      points: '4500',
     },
     {
       img: '/skill-up/harvard cs50.jpg',
@@ -76,6 +83,7 @@ function SkillUp() {
       link: '0afc3b09-3c41-4279-91b3-fd0fc030de6b',
       rating: '4.7(69)',
       time: '50min',
+      points: '5000',
     },
 
     {
@@ -86,6 +94,7 @@ function SkillUp() {
       link: '',
       rating: '4.8(18)',
       time: '50min',
+      points: '6500',
     },
     {
       img: '/skill-up/Communication skills copy.png',
@@ -95,6 +104,7 @@ function SkillUp() {
       link: '',
       rating: '4.4(81)',
       time: '30min',
+      points: '5500',
     },
     {
       img: '/skill-up/dining.jpeg',
@@ -104,6 +114,7 @@ function SkillUp() {
       link: '',
       rating: '4.9(8)',
       time: '40min',
+      points: '4200',
     },
     {
       img: '/skill-up/Content writing copy.png',
@@ -113,6 +124,7 @@ function SkillUp() {
       link: '',
       rating: '4.8(18)',
       time: '30min',
+      points: '4000',
     },
     {
       img: '/skill-up/What is freelancing copy.png',
@@ -122,6 +134,7 @@ function SkillUp() {
       link: '',
       rating: '4.8(12)',
       time: '80min',
+      points: '3000',
     },
   ];
   const CardLayout = courseData.map((course) => {

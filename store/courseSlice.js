@@ -11,6 +11,7 @@ export const courseSlice = createSlice({
     contenType: '',
     quizQuestion: [],
     chapterid: '',
+    quizMarks: '',
   },
   reducers: {
     setCourseId: (state, action) => {
@@ -34,6 +35,9 @@ export const courseSlice = createSlice({
     setQuizQuestion: (state, action) => {
       state.quizQuestion = action.payload;
     },
+    setQuizMarks: (state, action) => {
+      state.quizMarks = action.payload;
+    },
   },
 });
 
@@ -46,6 +50,7 @@ export const {
   setContentType,
   setChapterData,
   setQuizQuestion,
+  setQuizMarks,
 } = courseSlice.actions;
 
 export default courseSlice.reducer;

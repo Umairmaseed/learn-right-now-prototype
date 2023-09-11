@@ -39,8 +39,8 @@ function Cards(props) {
           <h3 className="card-name">{data.title}</h3>
           <div className="secondary-info">
             <span className="sub-logo">
-              <ion-icon class="wallet" name="wallet-outline"></ion-icon>{' '}
-              <p> 149 </p>
+              <ion-icon class="wallet" name="stats-chart-outline"></ion-icon>{' '}
+              <p> {data.points} </p>
             </span>
             <span className="sub-logo">
               <ion-icon

@@ -13,6 +13,7 @@ function CareerExplore() {
       link: '608f04db-c469-4cdd-8146-ee3b454d5130',
       rating: '4.8(12)',
       time: '80min',
+      points: '5000',
     },
     {
       img: '/Career Exploration/Doctor and dentist copy.png',
@@ -22,6 +23,7 @@ function CareerExplore() {
       link: 'fdab03a8-ac74-46d3-9507-ee347b0e6456',
       rating: '4.3(78)',
       time: '40min',
+      points: '5000',
     },
     {
       img: '/Career Exploration/Civil Services copy.png',
@@ -31,6 +33,7 @@ function CareerExplore() {
       link: '70a633b4-2aeb-4431-8f20-2bcee600a80e',
       rating: '4.7(23)',
       time: '46min',
+      points: '6500',
     },
     {
       img: '/Career Exploration/Teachers copy.png',
@@ -40,6 +43,7 @@ function CareerExplore() {
       link: '',
       rating: '4.8(12)',
       time: '80min',
+      points: '4800',
     },
     {
       img: '/Career Exploration/Entrepreneurs copy.png',
@@ -49,6 +53,7 @@ function CareerExplore() {
       link: '',
       rating: '4.2(12)',
       time: '34min',
+      points: '4000',
     },
     {
       img: '/Career Exploration/Accountants copy.png',
@@ -58,6 +63,7 @@ function CareerExplore() {
       link: '',
       rating: '4.8(87)',
       time: '34min',
+      points: '4200',
     },
     {
       img: '/Career Exploration/Lawyers copy.png',
@@ -67,6 +73,7 @@ function CareerExplore() {
       link: '',
       rating: '4.8(12)',
       time: '80min',
+      points: '2000',
     },
     {
       img: '/Career Exploration/Scientists copy.png',
@@ -76,6 +83,7 @@ function CareerExplore() {
       link: '',
       rating: '4.2(12)',
       time: '34min',
+      points: '3000',
     },
     {
       img: '/Career Exploration/Media Professional copy.png',
@@ -85,6 +93,7 @@ function CareerExplore() {
       link: '',
       rating: '4.8(12)',
       time: '80min',
+      points: '4300',
     },
   ];
   const CardLayout = courseData.map((course) => {

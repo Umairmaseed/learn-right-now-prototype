@@ -2,8 +2,10 @@ import authentication from '@/services/authentication';
 import React, { useState } from 'react';
 import Latex from 'react-latex-next';
 import { useSelector, useDispatch } from 'react-redux';
+import { setQuizMarks } from '@/store/courseSlice';
 
 function Quiz(props) {
+  const dispatch = useDispatch();
   const [index, setIndex] = useState(0);
   const [answer, setAnswer] = useState([]);
   const questions = useSelector((state) => state.course.quizQuestion);
@@ -38,6 +40,7 @@ function Quiz(props) {
   const quizSubmit = () => {
     authentication.quizSubmit(quizId, answer).then((res) => {
       setquizMarks(res.data.marks);
+      dispatch(setQuizMarks(res.data.marks));
       setAnswer([]);
       setIndex(0);
       setQuizStart(false);

@@ -6,6 +6,7 @@ function AwardPopup(props) {
     poper: [awardPoper, setAwardPoper],
   } = { ...(props.state || {}) };
   const contenType = useSelector((state) => state.course.contenType);
+  const quizMark = useSelector((state) => state.course.quizMarks);
   return (
     <main className="award-container">
       <div className="award-popup">
@@ -23,7 +24,9 @@ function AwardPopup(props) {
             <h3 className="award-user-name">Moiz Ul Haq</h3>
             <p className="award-detail">
               You have earned{' '}
-              <span>{contenType === 'QUIZ' ? '300' : '100'} points</span>
+              <span>
+                {contenType === 'QUIZ' ? quizMark * 1000 : '100'} points
+              </span>
             </p>
             <a
               className="main-nav-link nav-cta "

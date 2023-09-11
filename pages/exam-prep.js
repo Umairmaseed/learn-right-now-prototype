@@ -13,6 +13,7 @@ function ExamPrep() {
       link: 'c578b27e-05fe-4ccb-a3d5-c42b20507471',
       rating: '4.8(12)',
       time: '80min',
+      points: '4300',
     },
     {
       img: '/Exam Prep/IELTS copy.png',
@@ -22,6 +23,7 @@ function ExamPrep() {
       link: '014b0ba2-b368-4862-8fd1-04c2cb54b2ac',
       rating: '4.8(87)',
       time: '34min',
+      points: '4500',
     },
     {
       img: '/Exam Prep/MDCAT copy.png',
@@ -31,6 +33,7 @@ function ExamPrep() {
       link: '7e05e5e9-0897-4a26-a09d-10ff04b9b08c',
       rating: '4.2(12)',
       time: '34min',
+      points: '6500',
     },
     {
       img: '/Exam Prep/ETEA copy.png',
@@ -40,6 +43,7 @@ function ExamPrep() {
       link: '488dfcb4-448b-49a4-a08a-03e970dfddb8',
       rating: '4.8(12)',
       time: '80min',
+      points: '5200',
     },
     {
       img: '/Exam Prep/ECAT copy.png',
@@ -49,6 +53,7 @@ function ExamPrep() {
       link: 'baddfed8-772f-4336-bc0f-86f4b63b37fd',
       rating: '4.7(23)',
       time: '46min',
+      points: '2300',
     },
     {
       img: '/Exam Prep/NET copy.png',
@@ -58,6 +63,7 @@ function ExamPrep() {
       link: 'afcd70c8-78ff-4cc3-a22f-3179798be9a3',
       rating: '4.3(78)',
       time: '40min',
+      points: '3300',
     },
     {
       img: '/Exam Prep/PMA copy.png',
@@ -67,6 +73,7 @@ function ExamPrep() {
       link: '',
       rating: '4.8(12)',
       time: '80min',
+      points: '3400',
     },
   ];
   const CardLayout = courseData.map((course) => {

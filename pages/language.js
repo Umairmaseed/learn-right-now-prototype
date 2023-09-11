@@ -13,6 +13,7 @@ function Language() {
       link: 'c73e16f8-8eff-421f-8d5b-af5dc91b1909',
       rating: '4.8(12)',
       time: '80min',
+      points: '4500',
     },
     {
       img: '/Language/German A2.png',
@@ -22,6 +23,7 @@ function Language() {
       link: '',
       rating: '4.4(66)',
       time: '30min',
+      points: '5000',
     },
     {
       img: '/Language/German B1.png',
@@ -31,6 +33,7 @@ function Language() {
       link: '',
       rating: '4.2(89)',
       time: '60min',
+      points: '4500',
     },
     {
       img: '/Language/German B2.png',
@@ -40,6 +43,7 @@ function Language() {
       link: '',
       rating: '4.8(12)',
       time: '80min',
+      points: '3500',
     },
     {
       img: '/Language/Mandarin HSK Level 1 copy.png',
@@ -49,6 +53,7 @@ function Language() {
       link: '6fef8825-9bab-47b6-9ee7-15f19f3377de',
       rating: '4.3(54)',
       time: '50min',
+      points: '5800',
     },
     {
       img: '/Language/Mandarin HSK Level 2 copy.png',
@@ -58,6 +63,7 @@ function Language() {
       link: '',
       rating: '4.9(16)',
       time: '60min',
+      points: '6000',
     },
     {
       img: '/Language/Mandarin HSK Level 3 copy.png',
@@ -67,6 +73,7 @@ function Language() {
       link: '',
       rating: '4.8(12)',
       time: '80min',
+      points: '5500',
     },
     {
       img: '/Language/Mandarin HSK Level 4 copy.png',
@@ -76,6 +83,7 @@ function Language() {
       link: '',
       rating: '4.1(12)',
       time: '35min',
+      points: '4800',
     },
   ];
   const CardLayout = courseData.map((course) => {

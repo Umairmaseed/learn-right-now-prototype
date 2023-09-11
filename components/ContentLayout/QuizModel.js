@@ -33,12 +33,10 @@ function QuizModel(props) {
           {quizMarks !== '' ? quizMarks : quizData.weightage}
         </span>
         <h4 className="table-heading">
-          {quizMarks !== '' ? 'Percentage' : 'Time Available'}
+          {quizMarks !== '' ? 'Points Recieved' : 'Points'}
         </h4>
         <span className="table-data">
-          {quizMarks !== ''
-            ? Math.floor((quizMarks / quizData.weightage) * 100) + '%'
-            : Math.floor(quizData.duration / 60) + 'min'}
+          {quizMarks !== '' ? quizMarks * 1000 : quizData.weightage * 1000}
         </span>
       </div>
       {quizMarks === '' ? (

@@ -13,6 +13,7 @@ function GeneralKnowledge() {
       link: '5190d087-fea9-459c-b55c-abb253a84802',
       rating: '4.8(12)',
       time: '80min',
+      points: '4800',
     },
     {
       img: '/General KnowledgeIQ/Measles Explained.jpg',
@@ -22,6 +23,7 @@ function GeneralKnowledge() {
       link: '317397da-cc3d-4857-8b4f-80fa0b1497fc',
       rating: '4.8(45)',
       time: '60min',
+      points: '5000',
     },
     {
       img: '/General KnowledgeIQ/Nuclear energy explained – how does it work.jpg',
@@ -31,6 +33,7 @@ function GeneralKnowledge() {
       link: 'bfbe8744-492a-49ca-83a4-061f274bf689',
       rating: '4.1(12)',
       time: '30min',
+      points: '6500',
     },
     {
       img: '/General KnowledgeIQ/Plastic Pollution.jpg',
@@ -40,6 +43,7 @@ function GeneralKnowledge() {
       link: 'dd670c23-4630-404a-83c4-2852ce4f7396',
       rating: '4.2(57)',
       time: '50min',
+      points: '3500',
     },
     {
       img: '/General KnowledgeIQ/Wormholes Explained – Breaking Spacetime.jpg',
@@ -49,6 +53,7 @@ function GeneralKnowledge() {
       link: 'ab4c006c-3754-4267-9991-2d07230b429f',
       rating: '4.8(12)',
       time: '80min',
+      points: '5000',
     },
     {
       img: '/General KnowledgeIQ/Whats an algorithm  David J Malan.jpg',
@@ -58,6 +63,7 @@ function GeneralKnowledge() {
       link: '2d5e8642-555b-4258-933b-79ed8f4392ed',
       rating: '4.3(78)',
       time: '40min',
+      points: '2500',
     },
     {
       img: '/General KnowledgeIQ/How does immune system.jpg',
@@ -67,6 +73,7 @@ function GeneralKnowledge() {
       link: '8a026ff3-c0c0-471f-9247-1ba2c4fca70f',
       rating: '4.7(23)',
       time: '46min',
+      points: '5500',
     },
     {
       img: '/General KnowledgeIQ/how car engine works.jpg',
@@ -76,6 +83,7 @@ function GeneralKnowledge() {
       link: '9c063eda-8782-4a76-8907-d1f0f7867b17',
       rating: '4.8(12)',
       time: '80min',
+      points: '2500',
     },
     {
       img: '/General KnowledgeIQ/What does the liver do.jpg',
@@ -85,6 +93,7 @@ function GeneralKnowledge() {
       link: 'f4cfb7ea-011c-473e-9943-92de1fdb3fdb',
       rating: '4.2(12)',
       time: '34min',
+      points: '3000',
     },
     {
       img: '/General KnowledgeIQ/why is it hard to cure cancer.jpg',
@@ -94,6 +103,7 @@ function GeneralKnowledge() {
       link: '5070f75b-b775-49e1-a7e2-cc86382f7be3',
       rating: '4.8(87)',
       time: '34min',
+      points: '4500',
     },
   ];
   const CardLayout = courseData.map((course) => {

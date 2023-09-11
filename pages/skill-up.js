@@ -6,7 +6,7 @@ import React from 'react';
 function SkillUp() {
   const courseData = [
     {
-      img: '',
+      img: '/skill-up/MIT CODING FOR KIDS SCRATCJ.jpg',
       title: 'Coding for Kids with Scratch',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -15,17 +15,16 @@ function SkillUp() {
       time: '80min',
     },
     {
-      img: '',
-      title: 'MS Word for beginners',
+      img: '/skill-up/HOW TO TAKE ADVANTAGE CHATGPT copy.png',
+      title: 'How to use ChatGPT',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
-      link: '4fd3653b-3919-4151-8518-09dbe4a8681c',
-      rating: '4.1(14)',
-      time: '46min',
+      link: '',
+      rating: '4.6(168)',
+      time: '120min',
     },
-
     {
-      img: '',
+      img: '/skill-up/Graphic with canva copy.png',
       title: 'Graphic Design with Canva',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -34,7 +33,7 @@ function SkillUp() {
       time: '30min',
     },
     {
-      img: '',
+      img: '/skill-up/Presentation with powerpoint copy.png',
       title: 'Presentations with MS PowerPoint',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -43,7 +42,16 @@ function SkillUp() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/skill-up/MS word for beginners copy.png',
+      title: 'MS Word for beginners',
+      discription:
+        'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
+      link: '4fd3653b-3919-4151-8518-09dbe4a8681c',
+      rating: '4.1(14)',
+      time: '46min',
+    },
+    {
+      img: '/skill-up/introduction to photoshop.jpg',
       title: 'Introduction to Adobe Photoshop',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -52,7 +60,7 @@ function SkillUp() {
       time: '60min',
     },
     {
-      img: '',
+      img: '/skill-up/Think like a coder copy.png',
       title: 'Think like a coder Series ',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -61,7 +69,7 @@ function SkillUp() {
       time: '50min',
     },
     {
-      img: '',
+      img: '/skill-up/harvard cs50.jpg',
       title: 'Harvard CS50 ',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -69,8 +77,9 @@ function SkillUp() {
       rating: '4.7(69)',
       time: '50min',
     },
+
     {
-      img: '',
+      img: '/skill-up/Video Editing with pro copy.png',
       title: 'Video Editing with Adobe Premiere Pro',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -79,7 +88,7 @@ function SkillUp() {
       time: '50min',
     },
     {
-      img: '',
+      img: '/skill-up/Communication skills copy.png',
       title: 'Communication Skills',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -88,7 +97,7 @@ function SkillUp() {
       time: '30min',
     },
     {
-      img: '',
+      img: '/skill-up/dining.jpeg',
       title: 'Dining etiquettes ',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -97,7 +106,7 @@ function SkillUp() {
       time: '40min',
     },
     {
-      img: '',
+      img: '/skill-up/Content writing copy.png',
       title: 'Content Writing 101',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -106,7 +115,7 @@ function SkillUp() {
       time: '30min',
     },
     {
-      img: '',
+      img: '/skill-up/What is freelancing copy.png',
       title: 'What is Freelancing? ',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',

@@ -60,10 +60,22 @@ function CategoriesCard() {
             />
           </div>
           <div className="home-cat-thumbnail">
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
+            <img
+              src="/General KnowledgeIQ/Black Holes explained – from Birth to Death.jpg"
+              className="home-cat-card"
+            />
+            <img
+              src="/General KnowledgeIQ/how car engine works.jpg"
+              className="home-cat-card"
+            />
+            <img
+              src="/General KnowledgeIQ/How does immune system.jpg"
+              className="home-cat-card"
+            />
+            <img
+              src="/General KnowledgeIQ/Measles Explained.jpg"
+              className="home-cat-card"
+            />
           </div>
         </div>
       </div>
@@ -80,10 +92,19 @@ function CategoriesCard() {
         </div>
         <div className="category-video-thumbnail left">
           <div className="home-cat-thumbnail">
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
+            <img
+              src="/skill-up/Video Editing with pro copy.png"
+              className="home-cat-card"
+            />
+            <img
+              src="/skill-up/Think like a coder copy.png"
+              className="home-cat-card"
+            />
+            <img
+              src="/skill-up/HOW TO TAKE ADVANTAGE CHATGPT copy.png"
+              className="home-cat-card"
+            />
+            <img src="/skill-up/harvard cs50.jpg" className="home-cat-card" />
           </div>
           <div className="video-container">
             <ReactPlayer
@@ -126,10 +147,16 @@ function CategoriesCard() {
             />
           </div>
           <div className="home-cat-thumbnail">
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
+            <img src="/Language/German a1 copy.png" className="home-cat-card" />
+            <img src="/Language/German A2.png" className="home-cat-card" />
+            <img
+              src="/Language/Mandarin HSK Level 1 copy.png"
+              className="home-cat-card"
+            />
+            <img
+              src="/Language/Mandarin HSK Level 2 copy.png"
+              className="home-cat-card"
+            />
           </div>
         </div>
       </div>
@@ -146,10 +173,22 @@ function CategoriesCard() {
         </div>
         <div className="category-video-thumbnail left">
           <div className="home-cat-thumbnail">
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
+            <img
+              src="/Career Exploration/Accountants copy.png"
+              className="home-cat-card"
+            />
+            <img
+              src="/Career Exploration/Civil Services copy.png"
+              className="home-cat-card"
+            />
+            <img
+              src="/Career Exploration/Entrepreneurs copy.png"
+              className="home-cat-card"
+            />
+            <img
+              src="/Career Exploration/Teachers copy.png"
+              className="home-cat-card"
+            />
           </div>
           <div className="video-container">
             <ReactPlayer
@@ -188,10 +227,10 @@ function CategoriesCard() {
             />
           </div>
           <div className="home-cat-thumbnail">
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
-            <img src="/thumbnail1.jpg" className="home-cat-card" />
+            <img src="/Exam Prep/ECAT copy.png" className="home-cat-card" />
+            <img src="/Exam Prep/ETEA copy.png" className="home-cat-card" />
+            <img src="/Exam Prep/NET copy.png" className="home-cat-card" />
+            <img src="/Exam Prep/SAY copy.png" className="home-cat-card" />
           </div>
         </div>
       </div>

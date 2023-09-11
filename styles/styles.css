@@ -1337,3 +1337,29 @@ label {
   grid-template-columns: 8fr 2fr;
   align-items: center;
 }
+/**************************/
+/* treasure container */
+/**************************/
+.treasure-container {
+  height: 100vh;
+  padding: 11.2rem 4.8rem 0 4.8rem;
+  display: grid;
+  grid-template-columns: 2fr 3fr;
+  /* align-items: center; */
+}
+.treasure-img {
+  border-radius: 11px;
+  width: 85%;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.treasure-text-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.treasure-heading {
+  font-size: 4.8rem;
+  font-weight: 800;
+  margin-bottom: ;
+}

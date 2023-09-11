@@ -26,11 +26,7 @@ function Cards(props) {
         </div>
       </div> */}
       <div className="card-secondary">
-        <img
-          className="card-secondary-img"
-          src="/thumbnail1.jpg"
-          alt="course image"
-        />
+        <img className="card-secondary-img" src={data.img} alt="course image" />
         <div className="card-secondary-des">
           <div className="description-label">
             <span className="label">{category}</span>

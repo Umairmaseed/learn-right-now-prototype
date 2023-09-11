@@ -6,7 +6,7 @@ import Navbar from '../components/_App/Navbar';
 function CareerExplore() {
   const courseData = [
     {
-      img: '',
+      img: '/Career Exploration/Software Engineering copy.png',
       title: 'Software Engineering',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ',
@@ -15,7 +15,7 @@ function CareerExplore() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/Career Exploration/Doctor and dentist copy.png',
       title: 'Doctors and Dentists',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ',
@@ -24,7 +24,7 @@ function CareerExplore() {
       time: '40min',
     },
     {
-      img: '',
+      img: '/Career Exploration/Civil Services copy.png',
       title: 'Civil Services',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ',
@@ -33,7 +33,7 @@ function CareerExplore() {
       time: '46min',
     },
     {
-      img: '',
+      img: '/Career Exploration/Teachers copy.png',
       title: 'Teachers',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ',
@@ -42,7 +42,7 @@ function CareerExplore() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/Career Exploration/Entrepreneurs copy.png',
       title: 'Entrepreneurs',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ',
@@ -51,7 +51,7 @@ function CareerExplore() {
       time: '34min',
     },
     {
-      img: '',
+      img: '/Career Exploration/Accountants copy.png',
       title: 'Accountants',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ',
@@ -60,7 +60,7 @@ function CareerExplore() {
       time: '34min',
     },
     {
-      img: '',
+      img: '/Career Exploration/Lawyers copy.png',
       title: 'Lawyers',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ',
@@ -69,7 +69,7 @@ function CareerExplore() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/Career Exploration/Scientists copy.png',
       title: 'Scientists',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ',
@@ -78,7 +78,7 @@ function CareerExplore() {
       time: '34min',
     },
     {
-      img: '',
+      img: '/Career Exploration/Media Professional copy.png',
       title: 'Media Professional',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ',

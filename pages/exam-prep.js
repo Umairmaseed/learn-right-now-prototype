@@ -6,7 +6,7 @@ import Navbar from '../components/_App/Navbar';
 function ExamPrep() {
   const courseData = [
     {
-      img: '',
+      img: '/Exam Prep/SAY copy.png',
       title: 'SAT',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -15,7 +15,7 @@ function ExamPrep() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/Exam Prep/IELTS copy.png',
       title: 'IELTS',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -24,7 +24,7 @@ function ExamPrep() {
       time: '34min',
     },
     {
-      img: '',
+      img: '/Exam Prep/MDCAT copy.png',
       title: 'MDCAT',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -33,7 +33,7 @@ function ExamPrep() {
       time: '34min',
     },
     {
-      img: '',
+      img: '/Exam Prep/ETEA copy.png',
       title: 'ETEA',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -42,7 +42,7 @@ function ExamPrep() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/Exam Prep/ECAT copy.png',
       title: 'ECAT',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -51,7 +51,7 @@ function ExamPrep() {
       time: '46min',
     },
     {
-      img: '',
+      img: '/Exam Prep/NET copy.png',
       title: 'NET',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -60,7 +60,7 @@ function ExamPrep() {
       time: '40min',
     },
     {
-      img: '',
+      img: '/Exam Prep/PMA copy.png',
       title: 'PMA',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',

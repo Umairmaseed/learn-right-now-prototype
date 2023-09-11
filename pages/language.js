@@ -6,7 +6,7 @@ import React from 'react';
 function Language() {
   const courseData = [
     {
-      img: '',
+      img: '/Language/German a1 copy.png',
       title: 'German | A1',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -15,7 +15,7 @@ function Language() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/Language/German A2.png',
       title: 'German | A2',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -24,7 +24,7 @@ function Language() {
       time: '30min',
     },
     {
-      img: '',
+      img: '/Language/German B1.png',
       title: 'German | B1',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -33,7 +33,7 @@ function Language() {
       time: '60min',
     },
     {
-      img: '',
+      img: '/Language/German B2.png',
       title: 'German | B2',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -42,7 +42,7 @@ function Language() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/Language/Mandarin HSK Level 1 copy.png',
       title: 'Mandarin | HSK Level 1',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -51,7 +51,7 @@ function Language() {
       time: '50min',
     },
     {
-      img: '',
+      img: '/Language/Mandarin HSK Level 2 copy.png',
       title: 'Mandarin | HSK Level 2',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -60,7 +60,7 @@ function Language() {
       time: '60min',
     },
     {
-      img: '',
+      img: '/Language/Mandarin HSK Level 3 copy.png',
       title: 'Mandarin | HSK Level 3',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -69,7 +69,7 @@ function Language() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/Language/Mandarin HSK Level 4 copy.png',
       title: 'Mandarin | HSK Level 4',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',

@@ -6,7 +6,7 @@ import React from 'react';
 function GeneralKnowledge() {
   const courseData = [
     {
-      img: '',
+      img: '/General KnowledgeIQ/Black Holes explained – from Birth to Death.jpg',
       title: 'Black Holes explained',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -15,7 +15,7 @@ function GeneralKnowledge() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/General KnowledgeIQ/Measles Explained.jpg',
       title: 'Measles Explained',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -24,7 +24,7 @@ function GeneralKnowledge() {
       time: '60min',
     },
     {
-      img: '',
+      img: '/General KnowledgeIQ/Nuclear energy explained – how does it work.jpg',
       title: 'Nuclear energy explained',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -33,7 +33,7 @@ function GeneralKnowledge() {
       time: '30min',
     },
     {
-      img: '',
+      img: '/General KnowledgeIQ/Plastic Pollution.jpg',
       title: 'Plastic Pollution ',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -42,7 +42,7 @@ function GeneralKnowledge() {
       time: '50min',
     },
     {
-      img: '',
+      img: '/General KnowledgeIQ/Wormholes Explained – Breaking Spacetime.jpg',
       title: 'Wormholes explained ',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -51,7 +51,7 @@ function GeneralKnowledge() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/General KnowledgeIQ/Whats an algorithm  David J Malan.jpg',
       title: 'Whats an algorithm',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -60,7 +60,7 @@ function GeneralKnowledge() {
       time: '40min',
     },
     {
-      img: '',
+      img: '/General KnowledgeIQ/How does immune system.jpg',
       title: 'How does your immune system work ',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -69,7 +69,7 @@ function GeneralKnowledge() {
       time: '46min',
     },
     {
-      img: '',
+      img: '/General KnowledgeIQ/how car engine works.jpg',
       title: 'How Car Engine Works',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -78,7 +78,7 @@ function GeneralKnowledge() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/General KnowledgeIQ/What does the liver do.jpg',
       title: 'What does the liver do ',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -87,7 +87,7 @@ function GeneralKnowledge() {
       time: '34min',
     },
     {
-      img: '',
+      img: '/General KnowledgeIQ/why is it hard to cure cancer.jpg',
       title: 'Why is it so hard to cure cancer ',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',

@@ -4,7 +4,7 @@ import Cards from '../Cards';
 function TopThreeCards() {
   const courseData = [
     {
-      img: '',
+      img: '/skill-up/Presentation with powerpoint copy.png',
       title: ' MS PowerPoint',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -13,7 +13,7 @@ function TopThreeCards() {
       time: '80min',
     },
     {
-      img: '',
+      img: '/skill-up/MIT CODING FOR KIDS SCRATCJ.jpg',
       title: 'Coding for Kids',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
@@ -22,7 +22,7 @@ function TopThreeCards() {
       time: '30min',
     },
     {
-      img: '',
+      img: '/skill-up/MS word for beginners copy.png',
       title: 'MS Word for beginners',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',

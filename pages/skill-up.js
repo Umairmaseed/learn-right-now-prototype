@@ -20,7 +20,7 @@ function SkillUp() {
       title: 'How to use ChatGPT',
       discription:
         'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.',
-      link: '',
+      link: '5ddda2a2-b5b1-45dd-b2e7-439a4b3a7e4b',
       rating: '4.6(168)',
       time: '120min',
       points: '4500',

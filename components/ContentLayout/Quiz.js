@@ -30,6 +30,8 @@ function Quiz(props) {
   const nextBtn = () => {
     if (index + 1 < questions.length) {
       setIndex(index + 1);
+    } else {
+      setIndex(0);
     }
   };
   const prevBtn = () => {

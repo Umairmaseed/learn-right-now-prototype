@@ -19,7 +19,7 @@ function profile() {
             School Name :<span> Beaconhouse School</span>
           </p>
           <p className="profile-text">
-            Brach : <span>Margallah Campus</span>
+            Branch : <span>Margallah Campus</span>
           </p>
           <p className="profile-text">
             Grade : <span>Class 6 </span>
@@ -31,7 +31,7 @@ function profile() {
             Email : <span>moiz@gmail.com</span>
           </p>
           <p className="profile-text">
-            Cotact No : <span> 03138865868 </span>
+            Contact No : <span> 03138865868 </span>
           </p>
         </aside>
         <main className="profile-main">

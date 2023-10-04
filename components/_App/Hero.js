@@ -10,9 +10,9 @@ function Hero() {
               Career Success Platform
             </h1>
             <p class="hero-description">
-              The smart 365-days-per-year food subscription that will make you
-              eat healthy again. Tailored to your personal tastes and
-              nutritional needs.
+              A plug-n-play <span> career-success platform </span> for K-12
+              students, to help schools{' '}
+              <span> adopt Education 4.0 overnight</span>.
             </p>
             <a href="#cta" class="btn btn--full margin-right-sm">
               Explore

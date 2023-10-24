@@ -57,10 +57,10 @@ function Navbar() {
             </a>
           </li>
         </ul>
-        <button class="btn-mobile-nav" onClick={toggleNavbar}>
+        {/* <button class="btn-mobile-nav" onClick={toggleNavbar}>
           <ion-icon class="icon-mobile-nav" name="menu-outline"></ion-icon>
-          {/* <ion-icon class="icon-mobile-nav" name="close-outline"></ion-icon> */}
-        </button>
+          <ion-icon class="icon-mobile-nav" name="close-outline"></ion-icon>
+        </button> */}
       </div>
     </header>
   );

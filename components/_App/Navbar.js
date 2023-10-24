@@ -1,11 +1,30 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 function Navbar() {
+  const [mobileNav, setMobileNav] = useState(true);
+  const toggleNavbar = () => {
+    setMobileNav(!mobileNav);
+  };
   return (
-    <header className="header">
-      <a href="/">
-        <img className="logo" src="/Logo-normal.png" alt="skip - by lrn" />
-      </a>
+    <header className="header main-nav">
+      <div
+        style={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center',
+        }}
+      >
+        <a href="/">
+          <img className="logo" src="/Icon.png" alt="skip - by lrn" />
+        </a>
+        <h1 className="heading-nav">
+          {' '}
+          <span>E</span>
+          <span>T</span>
+          <span>S</span>
+          <span>O</span>
+        </h1>
+      </div>
       <div className="nav-items">
         <ul className="nav-list">
           <li className="main-nav-list ">
@@ -38,6 +57,10 @@ function Navbar() {
             </a>
           </li>
         </ul>
+        <button class="btn-mobile-nav" onClick={toggleNavbar}>
+          <ion-icon class="icon-mobile-nav" name="menu-outline"></ion-icon>
+          {/* <ion-icon class="icon-mobile-nav" name="close-outline"></ion-icon> */}
+        </button>
       </div>
     </header>
   );

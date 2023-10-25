@@ -238,7 +238,7 @@
     grid-row: 1;
   }
   .blue-planet {
-    left: 40rem;
+    left: 25rem;
     bottom: -4rem;
   }
   .orange-planet {
@@ -255,7 +255,7 @@
   }
   .St img {
     width: 100%;
-    transform: rotate(-30deg);
+    transform: rotate(-50deg);
   }
   .rocket-img img {
     z-index: 1;
@@ -291,10 +291,12 @@
     align-items: center;
   }
   .grid--3-cols {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
   }
   .nav-list {
-    display: ;
+    display: none;
+  }
+  .btn-mobile-nav {
   }
 }
 

@@ -141,9 +141,7 @@ function CategoriesCard() {
               playing={true}
               loop={true}
               muted={true}
-              url={
-                'https://www.youtube.com/watch?v=RuGmc662HDg&list=PLF9mJC4RrjIhS4MMm0x72-qWEn1LRvPuW'
-              }
+              url={'https://youtu.be/0x96cXoeJRQ'}
             />
           </div>
           <div className="home-cat-thumbnail">

@@ -54,7 +54,10 @@ function leaderboard() {
                   <img src="user-icon2.jpg" />
                   <h4>Hammad Khan</h4>
                 </div>
-                <h4>42,250</h4>
+                <div style={{ position: 'relative' }}>
+                  <h4>42,250</h4>
+                  <img className="gif-anime" src="/super-mario.gif" />
+                </div>
               </div>
               <div className="list-name">
                 <div className="list-name-initial">
@@ -62,7 +65,10 @@ function leaderboard() {
                   <img src="user-icon2.jpg" />
                   <h4>Khurram Ahmed</h4>
                 </div>
-                <h4>40,160</h4>
+                <div style={{ position: 'relative' }}>
+                  <h4>40,160</h4>
+                  <img className="gif-anime" src="/sonic.gif" />
+                </div>
               </div>
               <div className="list-name">
                 <div className="list-name-initial">
@@ -70,7 +76,10 @@ function leaderboard() {
                   <img src="user-icon2.jpg" />
                   <h4>Saad Shahid</h4>
                 </div>
-                <h4>39,860</h4>
+                <div style={{ position: 'relative' }}>
+                  <h4>39,860</h4>
+                  <img className="gif-anime" src="/hulk.gif" />
+                </div>
               </div>
               <div className="list-name">
                 <div className="list-name-initial">

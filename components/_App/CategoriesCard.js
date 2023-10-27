@@ -1,7 +1,27 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import ReactPlayer from 'react-player';
 
 function CategoriesCard() {
+  const [isSmallScreen, setIsSmallScreen] = useState(
+    typeof window !== 'undefined' && window.innerWidth < 450
+  );
+
+  const updateMedia = () => {
+    setIsSmallScreen(typeof window !== 'undefined' && window.innerWidth < 450);
+  };
+
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      window.addEventListener('resize', updateMedia);
+    }
+
+    return () => {
+      if (typeof window !== 'undefined') {
+        window.removeEventListener('resize', updateMedia);
+      }
+    };
+  }, []);
+
   return (
     <div className="home-categories-section">
       <h2 className="home-cat-main-heading">
@@ -19,7 +39,7 @@ function CategoriesCard() {
           </select>
         </div>
         <div>
-          <label for="dropdown">Interest:</label>
+          <label for="dropdown">Subject Interest :</label>
           <select id="dropdown">
             <option value="option1">Programming</option>
             <option value="option2">Design</option>
@@ -51,7 +71,7 @@ function CategoriesCard() {
           <div className="video-container">
             <ReactPlayer
               width={'100%'}
-              height={'58vh'}
+              height={!isSmallScreen ? '58vh' : null}
               controls={false}
               playing={true}
               loop={true}
@@ -109,7 +129,7 @@ function CategoriesCard() {
           <div className="video-container">
             <ReactPlayer
               width={'100%'}
-              height={'58vh'}
+              height={!isSmallScreen ? '58vh' : null}
               controls={false}
               playing={true}
               loop={true}
@@ -136,7 +156,7 @@ function CategoriesCard() {
           <div className="video-container">
             <ReactPlayer
               width={'100%'}
-              height={'58vh'}
+              height={!isSmallScreen ? '58vh' : null}
               controls={false}
               playing={true}
               loop={true}
@@ -191,7 +211,7 @@ function CategoriesCard() {
           <div className="video-container">
             <ReactPlayer
               width={'100%'}
-              height={'58vh'}
+              height={!isSmallScreen ? '58vh' : null}
               controls={false}
               playing={true}
               loop={true}
@@ -216,7 +236,7 @@ function CategoriesCard() {
           <div className="video-container">
             <ReactPlayer
               width={'100%'}
-              height={'58vh'}
+              height={!isSmallScreen ? '58vh' : null}
               controls={false}
               playing={true}
               loop={true}

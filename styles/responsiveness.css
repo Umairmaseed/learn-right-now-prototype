@@ -170,7 +170,28 @@
 /**************************/
 /* BELOW 544px (Phones) */
 /**************************/
-
+@media (max-width: 450px) {
+  .blue-planet {
+    left: 33rem !important;
+    bottom: 4rem !important;
+  }
+  .orange-planet {
+    position: absolute;
+    left: -9rem !important;
+    bottom: 6rem !important;
+    z-index: 2;
+  }
+  .rocket-img {
+    position: absolute;
+    left: 20rem !important;
+    bottom: -11rem !important;
+    z-index: 4;
+  }
+  .St img {
+    width: 100%;
+    transform: rotate(-40deg) !important;
+  }
+}
 @media (max-width: 34em) {
   .grid {
     row-gap: 4.8rem;
